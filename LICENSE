@@ -1,0 +1,58 @@
+Watch Face Uploader - Source-Available License (All Rights Reserved)
+
+Copyright (c) 2026 Zuher. All rights reserved, except for the limited
+permissions granted below.
+
+1. WHAT YOU MAY DO
+
+   a) Use the hosted web page, and run a copy of this software on your own
+      devices, for personal, non-commercial purposes.
+   b) Read the source code.
+   c) Fork this repository on GitHub, as GitHub's Terms of Service allow, and
+      change your fork for your own use or in order to propose changes.
+   d) Propose changes to the original repository by pull request or issue.
+
+2. WHAT YOU MAY NOT DO
+
+   a) Copy, republish, host, mirror, distribute or publish this software, or
+      any modified version of it, anywhere other than this original GitHub
+      repository and its GitHub forks. This includes other websites, other
+      code hosting platforms, app stores, package registries, archives,
+      messaging channels and file sharing services.
+   b) Sell this software or use it commercially, or include it in a product
+      or service.
+   c) Remove or change this license, the copyright notice, or the name of the
+      author.
+   d) Claim that you wrote this software, or that the author endorses your
+      work.
+
+3. MODIFICATIONS
+
+   Every modification of this software must stay inside this GitHub
+   repository (and its GitHub forks). If you want a change to be included,
+   submit it to the original repository. By submitting a contribution you
+   grant the author a perpetual, worldwide, free and irrevocable licence to
+   use, change, relicense and distribute it as part of this project, and you
+   confirm that you have the right to do so.
+
+4. NO WARRANTY, USE AT YOUR OWN RISK
+
+   This software is provided "as is", without warranty of any kind. It sends
+   data to a Bluetooth device. A wrong or damaged file, or a watch that does
+   not support the file, can make a device freeze, restart, lose its watch
+   face or stop working. The author is not liable for any damage or loss of
+   any kind that results from using this software.
+
+5. TERMINATION
+
+   Your permissions end automatically if you break any term of this license.
+   The author may also withdraw them for any copy that is published outside
+   the places listed in section 2(a).
+
+6. NOT AFFILIATED
+
+   This project is not affiliated with, or endorsed by, any watch maker or
+   app (including WearFit and Chronos). All product names belong to their
+   owners.
+
+This is a custom license, not an open source license. It is not legal advice.
