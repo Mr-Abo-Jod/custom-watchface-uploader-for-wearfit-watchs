@@ -1,3 +1,10 @@
+
+use this site 
+https://mr-abo-jod.github.io/custom-watchface-uploader-for-wearfit-watchs/
+
+
+
+
 # Watch Face Uploader
 
 A single-page web tool that uploads a watch face `.bin` file to a Bluetooth smartwatch straight from the browser, using Web Bluetooth. It is meant for iPhone (through the **Bluefy** browser) and for Android (Chrome), when you want to send a face without the vendor app.
