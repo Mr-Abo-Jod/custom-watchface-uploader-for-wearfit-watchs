@@ -36,14 +36,6 @@ A single-page web tool that uploads a watch face `.bin` file to a Bluetooth smar
 
 If the watch freezes, hold its side button for 10 to 15 seconds to force a restart.
 
-## Put it online with GitHub Pages
-
-1. Create a new public repository on GitHub.
-2. Upload `index.html` and this `README.md`.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, branch `main`, folder `/ (root)`, then **Save**.
-5. After a minute the page is at `https://YOUR-NAME.github.io/YOUR-REPO/`. Open that link in Bluefy.
-
 ## Troubleshooting
 
 | Problem | What to try |
