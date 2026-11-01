@@ -100,14 +100,7 @@ If you try another watch, please report the model, phone, iOS or Android version
 6. انتظر لين الشريط يوصل 100%. المفروض الساعة تطبّق الواجهة.
 
 إذا الساعة علّقت، اضغط الزر الجانبي 10 إلى 15 ثانية حتى تعيد التشغيل.
-
-## النشر على GitHub Pages
-
-1. سوّ مستودع (repository) عام جديد على GitHub.
-2. ارفع `index.html` وهذا الملف `README.md`.
-3. افتح **Settings ← Pages**.
-4. تحت **Build and deployment** اختر **Deploy from a branch**، الفرع `main` والمجلد `/ (root)`، ثم **Save**.
-5. بعد دقيقة تصير الصفحة على `https://اسمك.github.io/اسم-المستودع/`. افتح هذا الرابط بـ Bluefy.
+b.io/اسم-المستودع/`. افتح هذا الرابط بـ Bluefy.
 
 ## حل المشاكل
 
